@@ -48,6 +48,11 @@
 
 
 
+## Sample output
+<img width="640" alt="Screenshot 2023-06-13 at 10 30 11 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/f84716c4-174b-41f2-af16-29a8c0e7d2f8">
+<img width="853" alt="Screenshot 2023-06-13 at 10 30 30 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/57ede0fa-03cd-412d-9de1-3ab7e05c62d9">
+<img width="598" alt="Screenshot 2023-06-13 at 10 19 12 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/7f19fb61-d460-4f6d-8e8c-d86336510452">
+<img width="853" alt="Screenshot 2023-06-13 at 10 31 14 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/441352c6-902c-47c2-b5fe-01289f71853e">
 
 
 ## References
