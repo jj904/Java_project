@@ -30,6 +30,9 @@
         - Enter the people involved in a group split and item costs
     - Display Itemized Receipt
         - Shows exactly who owes who how much $
+        
+## Tools
+<img width="769" alt="Screenshot 2023-06-13 at 10 16 29 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/471851d5-dc47-40c7-a9e3-922c9e511a86">
 
 
 ## Design Structures
@@ -40,6 +43,8 @@
 
 2. Class Diagram
 <img width="855" alt="Screenshot 2023-06-13 at 9 53 30 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/c4d38c03-71d2-47bd-9142-9e9d63f67245">
+
+
 
 
 ## References
