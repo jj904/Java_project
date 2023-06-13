@@ -31,6 +31,17 @@
     - Display Itemized Receipt
         - Shows exactly who owes who how much $
 
+
+## Design Structures
+<img width="841" alt="Screenshot 2023-06-13 at 9 53 57 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/aa4832c8-23c8-4083-acfc-72f22bd4ed41">
+
+1. State Diagram
+<img width="425" alt="Screenshot 2023-06-13 at 9 53 44 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/dfbd7c67-ae53-4c4e-9b1e-6ec4f25a1c23">
+
+2. Class Diagram
+<img width="855" alt="Screenshot 2023-06-13 at 9 53 30 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/c4d38c03-71d2-47bd-9142-9e9d63f67245">
+
+
 ## References
 Aldrich, Elizabeth. “Best Bill Splitting Apps of 2021.” Investopedia, Investopedia, 30 June 2021, www.investopedia.com/best-bill-splitting-apps-5190414.
 
