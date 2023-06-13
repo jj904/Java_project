@@ -31,3 +31,7 @@
     - Display Itemized Receipt
         - Shows exactly who owes who how much $
 
+## References
+Aldrich, Elizabeth. “Best Bill Splitting Apps of 2021.” Investopedia, Investopedia, 30 June 2021, www.investopedia.com/best-bill-splitting-apps-5190414.
+
+Mint. “41 Percent of Americans Pinch Pennies When Dining out with Friends: Technology to Blame?” MintLife Blog, 22 Apr. 2019, mint.intuit.com/blog/trends/splitting-bill-survey/#visual.
