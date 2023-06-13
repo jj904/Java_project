@@ -8,7 +8,17 @@
 
 ## Defining the Problem
 * There are currently little to no free apps for splitting bills conveniently. 
+* 65% of young adults use cash apps to exchange money between friends (Mint), but there are little to no free apps for splitting bills conveniently.
 * People often do not split bills right away and receipts compile → painstaking calculations later on
+* Many young adults are limited in money and must live on a budget, they are not able to easily split 50/50 on expenses with friends.
+
+## Vision
+* A bill splitting app, “Splitty”, can allow people on a budget to conveniently split multiple bills at a time by items and people involved.
+* Users shall be able to automatically send or request money after splitting with the app’s integration of Venmo or PayPal (the most popular cash apps).
+* Every person involved of a split transaction shall receive an4 itemized receipt including a list of the total costs they owe to other people and/or what others owe them.
+* Domain (or Scope)
+    - People with smartphones that are on a budget.
+
 
 ## What is Splitty?
 * Splitty is a bill-splitting application aimed toward people on a budget who wish to conveniently split multiple bills at time by items and people involved.
