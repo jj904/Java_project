@@ -1,7 +1,6 @@
 # Splitty Application
-### Splittys is a design-based Java desktop application based on the OOD (object-oriented design) concept.
-
 <img width="471" alt="Screenshot 2023-06-13 at 9 59 00 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/902867be-be75-4a6c-83a0-f8c4a89dfd10">
+### Splittys is a design-based Java desktop application based on the OOD (object-oriented design) concept.
 
 [PPT](https://docs.google.com/presentation/d/17WlbXwyL-h69nRjjQY8SRnhiTz_PZ5CCeZufPhbH83o/edit#slide=id.gcfc13c1243_5_23950)
 
