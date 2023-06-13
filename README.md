@@ -49,10 +49,11 @@
 
 
 ## Sample output
-<img width="853" alt="Screenshot 2023-06-13 at 10 30 30 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/1379b511-150d-4510-9387-96e8a5eb1f5b">
-<img width="597" alt="Screenshot 2023-06-13 at 10 19 03 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/d546f159-205a-4e30-9c5c-8a164ab64362">
-<img width="856" alt="Screenshot 2023-06-13 at 10 31 00 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/8b820e19-36ca-488f-bc97-5c78b33dd096">
-<img width="853" alt="Screenshot 2023-06-13 at 10 31 14 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/247953cd-e81a-4165-9815-5f2009bff1e4">
+<img width="590" alt="Screenshot 2023-06-13 at 10 18 56 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/895b4cd4-57d8-4607-b140-24cd44029ec9">
+<img width="853" alt="Screenshot 2023-06-13 at 10 30 30 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/eefbc8dd-c0d0-44f5-b909-0f9f33ae8439">
+<img width="1023" alt="Screenshot 2023-06-13 at 10 51 22 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/81d8f6c0-96fc-4433-a230-dc237edc4df6">
+<img width="1022" alt="Screenshot 2023-06-13 at 10 52 03 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/6c601ebc-5612-43cf-ada1-414f8aa3eeea">
+<img width="1019" alt="Screenshot 2023-06-13 at 10 52 20 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/f5670a63-a247-4fca-9c62-09d18c16600d">
 
 
 ## References
