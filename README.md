@@ -50,6 +50,7 @@
 
 
 
+
 ## References
 Aldrich, Elizabeth. “Best Bill Splitting Apps of 2021.” Investopedia, Investopedia, 30 June 2021, www.investopedia.com/best-bill-splitting-apps-5190414.
 
