@@ -2,12 +2,6 @@
 ### Splittys is a design-based Java desktop application based on the OOD (object-oriented design) concept.
 <img width="471" alt="Screenshot 2023-06-13 at 9 59 00 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/902867be-be75-4a6c-83a0-f8c4a89dfd10">
 
-[PPT](https://docs.google.com/presentation/d/17WlbXwyL-h69nRjjQY8SRnhiTz_PZ5CCeZufPhbH83o/edit#slide=id.gcfc13c1243_5_23950)
-
-[Project Demo](https://drive.google.com/file/d/17djV5Z9HqAQAWuFHS4xm_5GbGRPj2Hky/view)
-
-
-
 ## Defining the Problem
 * There are currently little to no free apps for splitting bills conveniently. 
 * 65% of young adults use cash apps to exchange money between friends (Mint), but there are little to no free apps for splitting bills conveniently.
@@ -56,6 +50,13 @@
 <img width="1023" alt="Screenshot 2023-06-13 at 10 51 22 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/81d8f6c0-96fc-4433-a230-dc237edc4df6">
 <img width="1022" alt="Screenshot 2023-06-13 at 10 52 03 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/6c601ebc-5612-43cf-ada1-414f8aa3eeea">
 <img width="1019" alt="Screenshot 2023-06-13 at 10 52 20 AM" src="https://github.com/jj904/Splitty-App/assets/57935131/f5670a63-a247-4fca-9c62-09d18c16600d">
+
+
+## Project Demo 
+
+[PPT](https://docs.google.com/presentation/d/17WlbXwyL-h69nRjjQY8SRnhiTz_PZ5CCeZufPhbH83o/edit#slide=id.gcfc13c1243_5_23950)
+
+[Project Demo](https://drive.google.com/file/d/17djV5Z9HqAQAWuFHS4xm_5GbGRPj2Hky/view)
 
 
 ## References
